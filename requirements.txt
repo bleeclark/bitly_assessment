@@ -1,0 +1,19 @@
+# Bitly Backend Engineer Coding Challenge Requirements
+# 
+# This file contains the Python dependencies required to run the click counter solution.
+# All dependencies are part of Python's standard library, so no external packages are needed.
+
+# Python Standard Library Modules Used:
+# - csv: For parsing CSV files
+# - json: For parsing JSON files
+# - logging: For structured logging
+# - collections: For defaultdict
+# - datetime: For timestamp parsing
+# - typing: For type hints
+# - sys: For system operations
+# - os: For file system operations
+# - unittest: For unit testing
+# - tempfile: For creating temporary test files
+
+# No external dependencies required!
+# Python 3.7+ recommended for optimal type hint support
